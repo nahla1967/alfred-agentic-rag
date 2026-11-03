@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hannibal Barca",
+        "relation": "Historical figure",
+        "description": "Carthaginian general who fought against Rome.",
+        "email": "hannibal@example.com"
+    },
+    {
+        "name": "Albert Einstein",
+        "relation": "Scientist",
+        "description": "Theoretical physicist known for the theory of relativity.",
+        "email": "albert@example.com"
+    },
+    {
+        "name": "Marie Curie",
+        "relation": "Scientist",
+        "description": "Pioneer in the study of radioactivity.",
+        "email": "marie@example.com"
+    }
+]
